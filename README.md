@@ -1,2 +1,2 @@
-# anki
-Anki decks
+# Anki Decks
+Some of my Anki decks
